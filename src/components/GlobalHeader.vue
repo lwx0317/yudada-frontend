@@ -13,7 +13,7 @@
         >
           <div class="titleBar">
             <img class="logo" src="../assets/logo.png" />
-            <div class="title">文轩智能问答系统</div>
+            <div class="title">文轩问答</div>
           </div>
         </a-menu-item>
         <a-menu-item v-for="item in visibleRoutes" :key="item.path">
